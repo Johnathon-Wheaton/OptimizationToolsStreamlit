@@ -2,6 +2,8 @@
 
 A suite of optimization tools for supply chain network design and logistics, built with Streamlit. This application provides various optimization algorithms to solve common supply chain problems including facility location and vehicle routing.
 
+[Click here](https://optimizationtools.streamlit.app/) to visit the deployed application.
+
 ## Features
 
 ### 1. Facility Location Optimization (MILP)
