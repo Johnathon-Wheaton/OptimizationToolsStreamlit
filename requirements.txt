@@ -2,8 +2,10 @@ setuptools
 numpy
 ortools==9.7.2996
 pandas==2.0.2
-PuLP==2.7.0
+pulp==2.9.0
 pydeck==0.8.0
 streamlit==1.35.0
 openpyxl
-autogen
+pyautogen==0.7.2
+xlsxwriter==3.1.2
+asyncio==3.4.3
